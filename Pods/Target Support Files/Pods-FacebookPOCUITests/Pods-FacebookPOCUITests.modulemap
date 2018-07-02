@@ -1,0 +1,6 @@
+framework module Pods_FacebookPOCUITests {
+  umbrella header "Pods-FacebookPOCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
